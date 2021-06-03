@@ -1,0 +1,15 @@
+Unseal Key 1: bRdmBDMVSLA2JZZO5rD7SYB+NJcWbXSE/bBu0SFqpgsH
+Unseal Key 2: lSUZ8+HFdrJGB4eLaNaGo3DoScdCGlYNjwDkxppl+sss
+Unseal Key 3: oTEG5TfuJ4hj/f0yzB6e6zB//jnFI97xy8dC3NqXjC8u
+Unseal Key 4: dyaG8x1aTLJz/+6EaOCqz2uYBUvt2es8IKS9Zd2BGkj3
+Unseal Key 5: vpD1+FEzea8G56AvOtJGR2AnWWrnIFnqxraoak9I0x4J
+
+Initial Root Token: s.j1H3OYzqT6vHxkOmN7avjIrH
+
+Key                Value
+---                -----
+lease_id           database/creds/my-role/VykxKxYrUa6VrGCraR49vu1q
+lease_duration     1h
+lease_renewable    true
+password           h19hA9-hhuAdIQGo7cTa
+username           v-root-my-role-vJZ5fzPZ32f1mSfE743Y-1620840067
