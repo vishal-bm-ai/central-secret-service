@@ -15,10 +15,8 @@ class VaultInterface():
     def _read_secret_from_path(self, secret_path):
         client = self._get_hvac_client()
         creds = None
-        try:
-            creds = client.read(secret_path)
-        except Exception as e:
-            print(str(e))
+        response = client.read(secret_path)
+        creds = response.get("data")
         return creds
 
 
